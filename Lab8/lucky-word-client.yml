@@ -1,3 +1,4 @@
 wordConfig:
-  luckyWord: “The lucky word is”
-  preamble: “Rabbit’s Foot”
+  luckyWord: The lucky word is
+  preamble: Kopytko
+  #preamble: “Rabbit’s Foot”
